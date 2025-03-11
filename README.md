@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuanCypher
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning HTML5, CSS and JS 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am studying all by myself so i accept anything that would help me!
 - ✨ My native language is portuguese, feel free to ask or explain me anything in portuguese or in english!
