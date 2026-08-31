@@ -15,9 +15,6 @@
 <p align="center"> 
   <a href="https://br.linkedin.com/in/luan-queiroz-6580a2245" target="_blank" rel="noopener noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" alt="Linkedin logo"/> </a> 
-  
-  &emsp; 
-  
   <a href="https://dev.to/lanpng" target="_blank" rel="noopener noreferrer"> 
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="60" alt="DevTo Link"/> </a> 
   </p>
