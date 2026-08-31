@@ -16,7 +16,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="200" alt="Linkedin logo"/>
 </a>       
 <a href="https://dev.to/lanpng" target="_blank" alt="Dev.to Link">
- <img src="https://dev.to/brand" width="200" alt="DevTo Link"/>
+ <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="200" alt="DevTo Link"/>
 </a>      
 </body>
 </html>
