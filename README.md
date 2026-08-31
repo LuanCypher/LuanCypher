@@ -4,7 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1 align="center"> Hello, World! I'm Luan! <img href="https://freesvgdesigns.com/wp-content/uploads/2018/09/00333C.jpg" width="2000">🐱🇧🇷 </h1>
+    <h1 align="center"> Hello, World! I'm Luan! <br>
+        🐱🇧🇷 </h1>
     <p align="center">Esse é o meu primeiro repositório no Github e também, minha apresentação como Dev.</p>
     <h2 align="center">Estas são minhas tecnologias atuais: </h2>
     <p align="center">
