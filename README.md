@@ -7,7 +7,6 @@
     <h1 align="center"> Hello, World! I'm Luan! 🇧🇷 </h1>
     <p align="center">Esse é o meu primeiro repositório no Github e também, minha apresentação como Dev.</p>
     <h2 align="center">Estas são minhas tecnologias atuais: </h2>
-    
     <p align="center">
         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="200" alt="HTML5"/>
@@ -21,7 +20,8 @@
             </a>&emsp;
     
 <a href="https://dev.to/lanpng" target="_blank" alt="Dev.to Link">
- <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="200" alt="DevTo Link"/>
-</a>      
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="200" alt="DevTo Link"/>
+</a>   
+
 </body>
 </html>
