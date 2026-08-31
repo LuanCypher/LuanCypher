@@ -10,9 +10,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="200" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="250" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="200" alt="JavaScript"/>
- <h1>Aqui estão minhas redes sociais: </h1>
-        <p align="Centter">
-<a href="(https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)" alt="Link do meu Linkedin">
+ <h1 align="center"> Aqui estão minhas redes sociais: </h1>
+        <p align="Center">
+<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav" target="_blank" alt="Link do meu Linkedin">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="200" alt="Linkedin logo"/>
 </a>       
 </body>
