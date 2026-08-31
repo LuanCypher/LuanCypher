@@ -10,18 +10,18 @@
     <h2 align="center">Estas são minhas tecnologias atuais: </h2>
     <p align="center">
         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="200" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="250" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="200" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="150" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="180" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="150" alt="JavaScript"/>
  <h1 align="center"> Aqui estão minhas redes sociais: </h1>
         <p align="Center">
 <a href="https://br.linkedin.com/in/luan-queiroz-6580a2245" target="_blank" alt="Link do meu Linkedin">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="200" alt="Linkedin logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100" alt="Linkedin logo"/>
 </a>      
             </a>&emsp;
     
 <a href="https://dev.to/lanpng" target="_blank" alt="Dev.to Link">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="200" alt="DevTo Link"/>
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="100" alt="DevTo Link"/>
 </a>   
 
 </body>
