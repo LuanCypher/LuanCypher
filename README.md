@@ -10,6 +10,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" alt="JavaScript"/> 
 </p> 
 
+<label for="file">Carregando:</label>
+<progress id="file" value="70" max="100">70%</progress>
+
 <h2 align="center"> Aqui estão minhas redes sociais: </h2> 
 
 <p align="center"> 
