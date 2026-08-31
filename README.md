@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1 align="center"> Hello, World! I'm Luan! 🇧🇷 </h1>
+    <h1 align="center"> Hello, World! I'm Luan! <img href="https://media1.tenor.com/m/55cZXOtYGjkAAAAd/cat-jump-happy-happy-happy.gif" width="20"> 🇧🇷 </h1>
     <p align="center">Esse é o meu primeiro repositório no Github e também, minha apresentação como Dev.</p>
     <h2 align="center">Estas são minhas tecnologias atuais: </h2>
     <p align="center">
