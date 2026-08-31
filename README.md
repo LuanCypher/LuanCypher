@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" alt="JavaScript"/> 
 </p> 
 <div>
- <div width="35" heigth="25"></div>
+ <div width="35" heigth="25" color="black"></div>
 </div>
 
 <h2 align="center"> Aqui estão minhas redes sociais: </h2> 
