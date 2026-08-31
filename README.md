@@ -15,5 +15,8 @@
 <a href="https://br.linkedin.com/in/luan-queiroz-6580a2245" target="_blank" alt="Link do meu Linkedin">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="200" alt="Linkedin logo"/>
 </a>       
+<a href="https://dev.to/lanpng" target="_blank" alt="Dev.to Link">
+ <img src="https://dev.to/brand" width="200" alt="DevTo Link"/>
+</a>      
 </body>
 </html>
