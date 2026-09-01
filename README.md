@@ -19,6 +19,4 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="60" alt="DevTo Link"/> </a> 
   </p>
 
-<p align="center">
-  <img src="hc.svg" alt="Hacker Green Terminal" width="500">
-</p>
+![Hacker Terminal](hc2t.svg)
