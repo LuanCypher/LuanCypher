@@ -1,3 +1,7 @@
+<table background="https://gifer.com" width="100%">
+  <tr>
+    <td>
+
 <h1 align="center"> Hello, World! I'm Luan! <br> 🐱🇧🇷 </h1> 
 
 <p align="center">Esse é o meu primeiro repositório no Github e também, minha apresentação como Dev.</p> 
@@ -18,3 +22,7 @@
   <a href="https://dev.to/lanpng" target="_blank" rel="noopener noreferrer"> 
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="60" alt="DevTo Link"/> </a> 
   </p>
+  
+   </td>
+     </tr>
+</table>
