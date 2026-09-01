@@ -1,4 +1,4 @@
-<div **ROXO**>
+<div>
     <h1 align="center" style="color"> Hello, World! I'm Luan! <br> 🐱🇧🇷 </h1> 
 </div>
 
