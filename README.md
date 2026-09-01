@@ -1,6 +1,5 @@
-<div>
+<div **ROXO**>
     <h1 align="center" style="color"> Hello, World! I'm Luan! <br> 🐱🇧🇷 </h1> 
-    [!IMPORTANT]
 </div>
 
 <p align="center">Esse é o meu primeiro repositório no Github e também, minha apresentação como Dev.</p> 
